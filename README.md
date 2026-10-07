@@ -1,4 +1,4 @@
-# LeafletMap
+# LeafletMigrationMapof_Finland
 Interactive Leaflet map visualizing municipality migration data in Finland using GeoJSON, Statistics Finland API, and OpenStreetMap.
 # Finland Municipality Migration Map
 
